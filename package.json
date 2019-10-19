@@ -1,0 +1,15 @@
+{
+  "name": "simple-websocket",
+  "version": "0.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "client": "node src/cli.js"
+  },
+  "author": "Mateus Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.2.0"
+  }
+}
